@@ -1,0 +1,120 @@
+*{
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0 auto ;
+   
+}
+
+body{
+    background-color: black;
+    width: 900px; 
+}
+
+#topBox{
+    background-color: rgb(45, 39, 39);
+    padding:100px 0px;
+    display:block;
+    }
+
+.cloud{
+    display: inline-block;
+    width: 18%;
+}
+.cloud h3 {
+ color:orangered;
+ font-family: sans-serif;
+}
+.cloud p{
+color: white;    
+}
+
+.Build-in{
+display:inline-block;    
+width:22%;
+margin: 10px;
+}
+
+#logoPic img{
+    width:200px;
+
+}
+#mainPic img{
+ width:900px;
+}
+
+
+#menuBox{
+    background-color: grey;
+    width:900px;
+   font-size: 22px;  //makes letters bigger
+    padding: 15px;
+    background-color: black;
+    color: white;
+    
+
+}
+
+#menuBox ul li{
+    list-style-type: none;
+    
+    padding:12px;
+   display: inline-block;
+
+}
+#menuBox ul li a{
+    text-decoration: none;
+    color:white;
+    padding:12px;
+    margin:10px;
+}
+
+#nestofTopBox{
+display: inline-block;   
+vertical-align: text-top ; 
+width:900px; 
+margin-top: auto;
+
+}
+
+#nestofTopBox img{
+width:50px;
+
+}
+#buyerBox {
+    height: 115px;
+    width: 100%;
+}
+
+#buyerBox p {
+    color: azure;
+    margin-top:15px;
+    width:70%;
+    display:inline-block;
+    
+}
+
+#buyNow{
+   
+   margin-top: 700 px;
+   
+   
+
+}
+#buyNow button{
+    display:inline-block;
+     background-color: orangered;
+   padding: 20px 40px;
+     border-radius: 10px;
+    
+   
+}
+
+#porfolioBox{
+background-color: rgb(128, 113, 113);
+padding: 15px;
+padding-bottom: 15px;
+padding-bottom: 30px;
+
+} 
+
